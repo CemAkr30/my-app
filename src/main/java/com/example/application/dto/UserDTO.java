@@ -14,4 +14,5 @@ public class UserDTO  extends BaseDto {
     private String name;
     private String surname;
     private String identityNumber;
+    private boolean islemTuru=false;
 }
